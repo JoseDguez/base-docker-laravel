@@ -1,5 +1,5 @@
 # Instalar Laravel
-Antes de hacer nada, elimina el archivo [README.md](src/README.md). Una vez eliminado el archivo podemos seguir una de estas opciones:
+Antes de hacer nada, elimina el archivo [README.md](README.md). Una vez eliminado el archivo podemos seguir una de estas opciones:
 * Clonar un repositorio ya existente o copiar todos los archivos de nuestro proyecto dentro de la carpeta ```/src/```.
 * En consola nos dirigimos a la carpeta ```/src/``` y ejecutamos el comando ```docker-compose run --rm composer create-project laravel/laravel .``` Ojo con el **.** al final de comando, esto se hace ya que ```/src/``` será nuestra raiz del proyecto.
 
